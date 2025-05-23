@@ -1,7 +1,7 @@
 
   
 ## PrepWise Real Time AI Voice Agent Interview
-
+PrepWise is a real-time AI-powered mock interview platform that simulates job interviews using voice agents. Users can sign up, generate interviews through voice interactions with Vapi AI and Google Gemini, and receive instant AI-driven feedback and transcripts. The app features modern UI/UX design, a responsive dashboard to track interviews, and scalable architecture with clean code practices.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
